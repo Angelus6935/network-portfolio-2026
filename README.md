@@ -17,10 +17,10 @@ Laboratorios profesionales en EVE‑NG y Cisco IOL
 
 🔥 Repositorios incluidos
 
-seminario-2026 (github.com in Bing)
+seminario-2026 ((https://github.com/Angelus6935/seminario-2026)
 Clases del Seminario 2026 — contenido educativo, guías, ejercicios y formación estructurada.
 
-jose-practica-4 (github.com in Bing)
+jose-practica-4 ((https://github.com/Angelus6935/jose-practica-4)
 NOC Toolkit orientado a operaciones:
 
 Automatización de Jump Server
@@ -31,7 +31,7 @@ Herramientas de monitoreo
 
 Flujos automatizados para tareas repetitivas
 
-jose-practica-3-banco (github.com in Bing)
+jose-practica-3-banco ([(https://github.com/Angelus6935/jose-practica-3-banco)
 Infraestructura bancaria simulada:
 
 Topología en EVE‑NG
@@ -42,7 +42,7 @@ Automatización en Python
 
 Escenarios reales de redes bancarias
 
-fortinet-security-tools (github.com in Bing)
+fortinet-security-tools ( https://github.com/Angelus6935/fortinet-security-tools)g )
 Colección de herramientas desarrolladas durante la formación NSE:
 
 Scripts para FortiGate
@@ -53,7 +53,7 @@ Automatizaciones
 
 Utilidades de administración y seguridad
 
-jose-practica-2 (github.com in Bing)
+jose-practica-2 ((https://github.com/Angelus6935/jose-practica-2))
 Laboratorio FortiGate NSE4:
 
 BGP
@@ -66,7 +66,7 @@ SD‑WAN
 
 Python Netmiko
 
-jose-practica-1 (github.com in Bing)
+jose-practica-1 (https://github.com/Angelus6935/jose-practica-1)
 Red empresarial multi‑sitio automatizada con Python:
 
 BGP
@@ -118,7 +118,7 @@ Professional labs using EVE‑NG and Cisco IOL
 This repository serves as a central hub showcasing all labs and tools that represent your professional skillset.
 
 🔥 Included Repositories
-seminario-2026 (github.com in Bing)
+seminario-2026 ([github.com in Bing](https://github.com/Angelus6935/seminario-2026))
 2026 Seminar classes — educational content, guides, exercises, structured teaching.
 
 jose-practica-4 (github.com in Bing)
@@ -143,7 +143,7 @@ Python automation
 
 Realistic banking network scenarios
 
-fortinet-security-tools (github.com in Bing)
+fortinet-security-tools (https://github.com/Angelus6935/fortinet-security-tools)
 Toolset developed during Fortinet NSE training:
 
 FortiGate scripts
@@ -154,7 +154,7 @@ Automation workflows
 
 Security and administration tools
 
-jose-practica-2 (github.com in Bing)
+jose-practica-2 (https://github.com/Angelus6935/jose-practica-2)
 FortiGate NSE4 Lab:
 
 BGP
@@ -167,7 +167,7 @@ SD‑WAN
 
 Python Netmiko
 
-jose-practica-1 (github.com in Bing)
+jose-practica-1 ([github.com in Bing](https://github.com/Angelus6935/jose-practica-1))
 Multi‑site enterprise network automated with Python:
 
 BGP
