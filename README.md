@@ -118,7 +118,7 @@ Professional labs using EVE‑NG and Cisco IOL
 This repository serves as a central hub showcasing all labs and tools that represent your professional skillset.
 
 🔥 Included Repositories
-seminario-2026 ([github.com in Bing](https://github.com/Angelus6935/seminario-2026))
+seminario-2026 ((https://github.com/Angelus6935/seminario-2026)
 2026 Seminar classes — educational content, guides, exercises, structured teaching.
 
 jose-practica-4 (github.com in Bing)
