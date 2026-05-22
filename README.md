@@ -1,24 +1,35 @@
 # network-portfolio-2026
-Colección de proyectos de automatización, seguridad y educación técnica.
-🇪🇸 Portafolio de Automatización y Seguridad en Redes — 2026
-Conjunto de proyectos desarrollados por José Ángel Aponte Arias, enfocados en automatización de redes, infraestructura simulada, seguridad Fortinet y educación técnica.
-Este repositorio centraliza y presenta cuatro laboratorios clave que demuestran experiencia práctica en entornos reales y simulados.
+
+Portafolio de Automatización y Seguridad en Redes — 2026
+Colección de proyectos desarrollados por José Ángel Aponte Arias, enfocados en:
+
+Automatización de redes
+
+Infraestructura simulada
+
+Seguridad Fortinet
+
+Educación técnica y espiritual
+
+Arquitecturas multi‑sitio
+
+Laboratorios profesionales en EVE‑NG y Cisco IOL
 
 🔥 Repositorios incluidos
+
 seminario-2026
-Material educativo del Seminario 2026.
-Incluye clases, guías, ejercicios y contenido pedagógico estructurado para formación espiritual y técnica.
+Clases del Seminario 2026 — contenido educativo, guías, ejercicios y formación estructurada.
 
 jose-practica-4
 NOC Toolkit orientado a operaciones:
 
 Automatización de Jump Server
 
-Scripting en Bash
+Bash scripting
 
 Herramientas de monitoreo
 
-Flujo de automatización para tareas repetitivas
+Flujos automatizados para tareas repetitivas
 
 jose-practica-3-banco
 Infraestructura bancaria simulada:
@@ -29,7 +40,7 @@ Equipos Cisco IOL
 
 Automatización en Python
 
-Escenarios típicos de redes bancarias
+Escenarios reales de redes bancarias
 
 fortinet-security-tools
 Colección de herramientas desarrolladas durante la formación NSE:
@@ -41,6 +52,32 @@ Validaciones
 Automatizaciones
 
 Utilidades de administración y seguridad
+
+jose-practica-2
+Laboratorio FortiGate NSE4:
+
+BGP
+
+OSPF
+
+VPN IPSec
+
+SD‑WAN
+
+Python Netmiko
+
+jose-practica-1
+Red empresarial multi‑sitio automatizada con Python:
+
+BGP
+
+OSPF
+
+HSRP
+
+VLANs
+
+Scripts de automatización
 
 🧰 Tecnologías destacadas
 Python (Netmiko, Paramiko, automatización)
@@ -63,25 +100,37 @@ LinkedIn: www.linkedin.com/in/jaaa-8537aaba
 _________________________________________
 
 
-🇺🇸 Network Automation & Security Portfolio — 2026
-A curated collection of projects developed by José Ángel Aponte Arias, focused on network automation, simulated infrastructure, Fortinet security, and technical education.
-This repository serves as a central hub showcasing hands‑on experience across real and simulated environments.
+Network Automation & Security Portfolio — 2026
+A curated collection of projects developed by José Ángel Aponte Arias, focused on:
+
+Network automation
+
+Simulated infrastructure
+
+Fortinet security
+
+Technical and spiritual education
+
+Multi‑site architectures
+
+Professional labs using EVE‑NG and Cisco IOL
+
+This repository serves as a central hub showcasing all labs and tools that represent your professional skillset.
 
 🔥 Included Repositories
 seminario-2026
-Educational material for the 2026 Seminar.
-Includes classes, guides, exercises, and structured pedagogical content.
+2026 Seminar classes — educational content, guides, exercises, structured teaching.
 
 jose-practica-4
 NOC Toolkit focused on operations:
 
-Jump Server Automation
+Jump Server automation
 
 Bash scripting
 
 Monitoring tools
 
-Automated workflows for repetitive tasks
+Automated workflows
 
 jose-practica-3-banco
 Simulated banking infrastructure:
@@ -105,6 +154,32 @@ Automation workflows
 
 Security and administration tools
 
+jose-practica-2
+FortiGate NSE4 Lab:
+
+BGP
+
+OSPF
+
+VPN IPSec
+
+SD‑WAN
+
+Python Netmiko
+
+jose-practica-1
+Multi‑site enterprise network automated with Python:
+
+BGP
+
+OSPF
+
+HSRP
+
+VLANs
+
+Automation scripts
+
 🧰 Key Technologies
 Python (Netmiko, Paramiko, automation)
 
@@ -117,8 +192,12 @@ Cisco IOL / EVE‑NG
 BGP, OSPF, HSRP, IPSec, SD‑WAN
 
 GitHub Projects & Documentation
-
 📬 Contact
 José Ángel Aponte Arias  
 Senior Network Engineer — Buenos Aires, Argentina
 LinkedIn: www.linkedin.com/in/jaaa-8537aaba
+
+
+
+
+            
