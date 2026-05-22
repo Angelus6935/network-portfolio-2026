@@ -1,4 +1,4 @@
-# network-portfolio-2026
+# Network-portfolio-2026
 
 Portafolio de Automatización y Seguridad en Redes — 2026
 Colección de proyectos desarrollados por José Ángel Aponte Arias, enfocados en:
